@@ -1,2 +1,7 @@
+<<<<<<< 587d815fbcb9a67d21e8c010ead3739c6f1bff44
 tomato
 pineapples
+=======
+tomato 
+kale
+>>>>>>> goofy ahhhh
